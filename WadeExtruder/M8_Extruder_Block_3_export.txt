@@ -1,0 +1,34 @@
+On the X axis, the extrusion starts at -5 mm and ends at 105 mm, for a width of 109 mm.
+On the Y axis, the extrusion starts at 0 mm and ends at 76 mm, for a depth of 76 mm.
+On the Z axis, the extrusion starts at 0 mm and ends at 28 mm, for a height of 28 mm.
+ 
+The average feedRate is 15.9 mm/s, (955.8 mm/min).
+The cross section area is 0.2 mm2.
+The extrusion diameter is 0.5 mm.
+The extruder speed is 31.0
+The extruder was extruding 86.5 percent of the time.
+The extruder was toggled 2696 times.
+The layer thickness is 0.4 mm.
+The operating flow rate is 3.1 mm3/s.
+The perimeter extrusion fill density ratio is 0.68
+The perimeter width is 0.72 mm.
+ 
+The following procedures have been performed on the skein:
+carve
+preface
+inset
+fill
+multiply
+speed
+raft
+jitter
+comb
+clip
+cool
+ 
+The text has 46986 lines and a size of 1849.0 KB.
+The total build time is 10331 s.
+The total distance extruded is 142424.6 mm.
+The total distance traveled is 164582.0 mm.
+The version is 2009-10-24
+The volume extruded is 28.0 cc.
